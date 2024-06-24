@@ -1,5 +1,5 @@
 # Data-Analyst-Portfolio
-Just IT Bootcamp Projects
+
 
 
 Just IT Data Bootcamp Roadmap 📊 I am sharing my journey of 12 weeks intensive Bootcamp journey
